@@ -1,3 +1,4 @@
 # Strivers-SDE-Sheet-Challenge-2023
 
-- [Arrays](./Array/)
+- [Array Day 1](./Array Day 1/)
+- [Array Day 2](./Array Day 2/)
